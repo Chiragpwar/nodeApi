@@ -1,12 +1,12 @@
 const Mongoose = require('mongoose');
-const Url = 'mongodb://localhost:27017/Testdb';
+const Url = 'your mongodb url';
 
 
 
 
 const mailCredential = {
-  Username: 'pawarcrg@gmail.com',
-  Password : 'mqggrheqojvqoazd'
+  Username: 'Email',
+  Password : 'password'
 }
 
 const options = {
